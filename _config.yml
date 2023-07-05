@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   AHA homepage description
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://aha-0810.github.io'
+url: "https://aha_0810.github.io"
 
 github:
   username: aha-0810 # change to your github username
