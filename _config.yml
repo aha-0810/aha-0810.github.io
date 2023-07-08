@@ -18,9 +18,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: AHA # the main title
+title: Miyoung Uhm # the main title
 
-tagline: AHA homepage # it will display as the sub-title
+tagline: Compilation of Recollection # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   AHA homepage description
