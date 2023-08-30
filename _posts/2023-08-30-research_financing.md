@@ -1,7 +1,7 @@
 ---
-title: Analysis of the Scale of External Funding for Proactive Maintenance of Road Infrastructure
+title: 2023_Analysis of the Scale of External Funding for Proactive Maintenance of Road Infrastructure
 date: 2023-08-30 14:00:00 +0900 # this is the time when the file should be shown to public
-categories: [Research]
+categories: [Conference Proceedings]
 tags: [road infrastructure, proactive maintenance, extenal funding, debt to income]     # TAG names should always be lowercase
 ---
 

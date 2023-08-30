@@ -1,0 +1,17 @@
+---
+title: 2015_Patterns in User Requests for Faciity Management Services in Higher Education Facilities
+date: 2023-08-30 19:00:00 +0900 # this is the time when the file should be shown to public
+categories: [Conference Proceedings]
+tags: [higher education facilities, facility management services, user request patterns]     # TAG names should always be lowercase
+---
+
+### Paper Information
+- Authors: Miyoung Uhm(Ph.D.Student, Yonsei Univ.), Ghang Lee*(Ph.D., Yonsei Univ. *Corr.)
+- Publications:
+2015 KIC Conference
+- Language: 
+Korean/English(Abstract)
+- DOI:
+
+### Abstract
+This paper aims to identify patterns in users’ requests for facility management (FM) services in higher education facilities. We analyzed data collected from 309 service request forms, made available via a department office and an enterprise resource planning system, at a private university in Seoul between May 2009 and February 2015. We found that the number of user requests were the highest in September and October. Requests for electronic and communication (E/C) services outnumbered those for architectural services and mechanical and plumbing (M/P) services. Repair requests for doors and windows were the most common under architectural services; repairs for air-conditioners and radiators were the most commonly under M/P services; and installation of electrical outlets, telephone wires, and internet services were the most sought-after E/C services. Maintenance requests were received every three months, while repair requests were received every six or seven months.

@@ -1,0 +1,17 @@
+---
+title: 2015_Innovation Resistance Model Driven Determinants of FMS Adoption in Higher Education Facilities
+date: 2023-08-30 19:00:00 +0900 # this is the time when the file should be shown to public
+categories: [Conference Proceedings]
+tags: [innovation resistance model, higher education facility, FMS adoption]     # TAG names should always be lowercase
+---
+
+### Paper Information
+- Authors: Miyoung Uhm(Ph.D.Student, Yonsei Univ.), Ghang Lee*(Ph.D., Yonsei Univ. *Corr.), KyungHwon Na, Boyoung Jeon(Yonsei Univ.)
+- Publications:
+2015 JAIK Conference
+- Language: 
+Korean/English(Abstract)
+- DOI:
+
+### Abstract
+The aim of this research was to identify the factors influencing the adoption of facility management system (FMS) in higher education facilities from the perspective of innovation resistance. We conducted surveys at two universities: one utilizes FMS, the other is planning to adopt it. Respondents were classified into three groups depending on their experiences. The respondents favored business compatibility over ease of use. Abundant information directly influenced FMS satisfaction. We identified the respondents’ willingness and tendency to adopt innovation technology.

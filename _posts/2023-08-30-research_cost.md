@@ -1,7 +1,7 @@
 ---
-title: Approaches for Cost Optimization in Preventive Infrastructure Maintenance Management
+title: 2022_Approaches for Cost Optimization in Preventive Infrastructure Maintenance Management
 date: 2023-08-30 14:00:00 +0900 # this is the time when the file should be shown to public
-categories: [Research]
+categories: [Conference Proceedings]
 tags: [preventive infrastructure maintenance, maintenance cost optimization, approaches for cost optimization]     # TAG names should always be lowercase
 ---
 

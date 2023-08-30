@@ -1,0 +1,16 @@
+---
+title: 2014_Preliminary Study on the Reliability-Centered Maintenance of University Facilities
+date: 2023-08-30 19:00:00 +0900 # this is the time when the file should be shown to public
+categories: [Conference Proceedings]
+tags: [reliability centered maintenance, university facility, requirement analysis]     # TAG names should always be lowercase
+---
+
+### Paper Information
+- Authors: Miyoung Uhm(Ph.D.Student, Yonsei Univ.), Hyunoh Kim(M.S. Student, Yonsei Univ.) Ghang Lee*(Ph.D., Yonsei Univ. *Corr.)
+- Publications:
+2014 KICEM Conference
+- Language: 
+Korean/English(Abstract)
+- DOI:
+
+### Abstract

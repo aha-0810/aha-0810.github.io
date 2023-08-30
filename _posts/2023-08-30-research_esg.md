@@ -1,14 +1,14 @@
 ---
-title: Approaches to ESG Factors in Construction Industry for Administrative Use by Municipality
+title: 2022_Approaches to ESG Factors in Construction Industry for Administrative Use by Municipality
 date: 2023-08-30 14:00:00 +0900 # this is the time when the file should be shown to public
-categories: [Research]
+categories: [Conference Proceedings]
 tags: [esg factors, construction industry, municipality]     # TAG names should always be lowercase
 ---
 
 ### Paper Information
 - Authors: Hoyoung Jung(Ph.D., SIT), Miyoung Uhm*(Ph.D., Yonsei Univ.Corr.), Sehee Lee(Ph.D., Korea Univ.)
 - Publications:
-2022 KIEAE Coference
+2022 KIEAE Conference
 - Language: 
 Korean/English(Abstract)
 - DOI:
