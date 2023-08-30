@@ -1,0 +1,17 @@
+---
+title: Approaches to ESG Factors in Construction Industry for Administrative Use by Municipality
+date: 2023-08-30 14:00:00 +0900 # this is the time when the file should be shown to public
+categories: [Research]
+tags: [esg factors, construction industry, municipality]     # TAG names should always be lowercase
+---
+
+### Paper Information
+- Authors: Hoyoung Jung(Ph.D., SIT), Miyoung Uhm*(Ph.D., Yonsei Univ.Corr.), Sehee Lee(Ph.D., Korea Univ.)
+- Publications:
+2022 KIEAE Coference
+- Language: 
+Korean/English(Abstract)
+- DOI:
+
+### Abstract
+This study aims to explore approaches for ESG factors in construction industry for administrative use by municipality. Accordingly, existing papers related to the ESG factors are analyzed. The result of this paper are summarized in four main approaches; 1) perceived economic burden of SMEs(Small and Medium-sized Enterprises), 2) sensitivity to injustice and corruption, 3) pursuing quantitative indicators, 4) global level orientation. It is expected that this study will contribute academically as a basic study for the ESG factors in construction industry for local government.

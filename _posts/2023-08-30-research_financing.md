@@ -1,0 +1,17 @@
+---
+title: Analysis of the Scale of External Funding for Proactive Maintenance of Road Infrastructure
+date: 2023-08-30 14:00:00 +0900 # this is the time when the file should be shown to public
+categories: [Research]
+tags: [road infrastructure, proactive maintenance, extenal funding, debt to income]     # TAG names should always be lowercase
+---
+
+### Paper Information
+- Authors: Miyoung Uhm(Ph.D., Yonsei Univ.), Hyoungkwan Kim(Ph.D., Yonsei Univ.), Hongjo Kim* (Ph.D., Yonsei Univ. *Corr.)
+- Publications:
+2023 KSCE Conference
+- Language: 
+Korean/English(Abstract)
+- DOI:
+
+### Abstract
+Due to the effects of cost reduction and performance enhancement, there is a growing demand for proactive maintenance introduction in road infrastructure. However, despite this demand, there is a lack of guidance on the scale and methods for procuring initial investment for proactive maintenance. In light of this, this study analyzes the government budget scale and the scale of external funding for proactive maintenance of road infrastructure. The results of a 30-year scenario analysis of proactive maintenance investment reveal that external funding for proactive maintenance can be secured up to a maximum of 15%.
