@@ -7,8 +7,8 @@ order: 4
 
 In my quest to be a scholar with words of comfort, I am pursuing the following areas of research.
 
-- BIM-based building maintenance and management methods and information analysis
-- Automated rule-checking techniques in three-dimensional modeling
-- Analysis of required competencies in the BIM industry
-- Strategies for proactive maintenance and evaluation of the road infrastructure
-- Safety training material generation and training evaluation for construction workers
+- BIM-based Building Maintenance and Management Methods and Information Analysis
+- Automated Rule-checking Techniques in 3-Dimensional Modeling
+- Analysis of Required Competencies in the BIM Industry
+- Strategies for Proactive Maintenance and Evaluation of the Road Infrastructure
+- Safety Training Material Generation and Training Evaluation for Construction Workers
